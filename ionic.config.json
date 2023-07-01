@@ -1,0 +1,7 @@
+{
+  "name": "News-Ireland",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
